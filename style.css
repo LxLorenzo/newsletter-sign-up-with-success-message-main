@@ -97,6 +97,7 @@ h1 {
   font-weight: bold;
   cursor: pointer;
   margin-top: 1rem;
+  transition: .2s;
 }
 
 .content-form button:active, .content-success button:active {
@@ -170,6 +171,7 @@ h1 {
   font-weight: bold;
   cursor: pointer;
   justify-self: flex-end;
+  transition: .2s;
 }
 
 @media screen and (min-width: 768px) {
